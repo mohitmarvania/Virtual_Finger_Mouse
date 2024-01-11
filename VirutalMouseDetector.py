@@ -24,8 +24,8 @@ class virtualMouse:
         # Frame reduction
         frameReduction = 100
 
-        # smooting the mouse.
-        smoothening = 7
+        # smoothing the mouse.
+        smoothening = 8
 
         ##################################################
 
